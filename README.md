@@ -4,3 +4,5 @@ Demo repository for powerline.segments.common.vcs.branch to show missing functio
 Addtional line
 
 One more line
+
+Last line
